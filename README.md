@@ -5,9 +5,9 @@ This project is aiming at scraping datum of books or movies that you tagged "wan
 First open www.douban.com and sign in, the refer to the method mentioned in this [blog](https://blog.csdn.net/weixin_44578172/article/details/109353017)
 
 ## Step2: Open cmdline interaction window in your local computer
-Windows: Windows Key + R, then input "cmd" and enter
-MacOS: command + space, then search "terminal"
-If you haven't installed python3.x, please search the installation step by yourself
+- Windows: Windows Key + R, then input "cmd" and enter
+- MacOS: command + space, then search "terminal"
+If you haven't installed python3.x and related libs in code, please search the installation step by yourself
 
 ## Step3: Check your own parameters
 Taking my own scraping process for example, there are six parameters you must provide:
