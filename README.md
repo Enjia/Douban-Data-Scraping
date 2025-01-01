@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4d4e2765-0ea2-4b04-b329-530e0be53182)# Douban-Data-Scraping
 This project is aiming at scraping datum of books or movies that you tagged "want to read/watch" and saving them in local sheet. 
 
 # How to use
