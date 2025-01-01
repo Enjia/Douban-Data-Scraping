@@ -7,6 +7,7 @@ First open www.douban.com and sign in, the refer to the method mentioned in this
 ## Step2: Open cmdline interaction window in your local computer
 - Windows: Windows Key + R, then input "cmd" and enter
 - MacOS: command + space, then search "terminal"
+
 If you haven't installed python3.x and related libs in code, please search the installation step by yourself
 
 ## Step3: Check your own parameters
