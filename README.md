@@ -1,6 +1,6 @@
 This project is aiming at scraping datum of books or movies that you tagged "want to read/watch" and saving them in local sheet. 
 
-# How to use
+# How to use this project
 ## Step1: Check your user agent and cookie in web browser(e.g. Chrome)
 First open www.douban.com and sign in, the refer to the method mentioned in this [blog](https://blog.csdn.net/weixin_44578172/article/details/109353017)
 
