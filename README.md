@@ -20,8 +20,10 @@ Taking my own scraping process for example, there are six parameters you must pr
 - cookie: See step1
 
 ## Step4: Input command line for scraping
-
-![image](https://github.com/user-attachments/assets/92ff2fd6-3930-46b5-8c12-e642ef60784a)
+For example this is my command line:
+![image](https://github.com/user-attachments/assets/8c2c52ee-1b92-4e29-a520-51bd0f1f6b17)
 
 If you successfully finished scraping, there would be some inforamtion:
 ![image](https://github.com/user-attachments/assets/d877445c-6908-4482-b58f-66b6cc6ddd4f)
+
+BTW, following my douban [account](https://www.douban.com/people/91701019/?_i=5737426LWVguVb) is warmly welcomed!
